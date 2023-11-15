@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Layout from "../src/Layout";
+import Layout from "./Layout";
 import Create from "./pages/Create";
 import New from "./pages/New";
 import Progress from "./pages/Progress";
