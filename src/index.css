@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: #f5f5f5;
+}
+
+.active,
+.active:hover {
+  background-color: #007bff;
+  color: #fff;
+  border-left: 8px solid #ff0000;
+}
+
